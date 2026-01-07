@@ -5,9 +5,9 @@
     --card-bg: rgba(255, 255, 255, 0.03);
     --text-primary: #ffffff;
     --text-secondary: #a0a0a0;
-    --accent-primary: #7b2cbf;
-    --accent-secondary: #9d4edd;
-    --accent-glow: rgba(123, 44, 191, 0.5);
+    --accent-primary: #10b981;
+    --accent-secondary: #34d399;
+    --accent-glow: rgba(16, 185, 129, 0.5);
     --border-color: rgba(255, 255, 255, 0.1);
 }
 
@@ -62,7 +62,7 @@ body::before {
     left: -50%;
     width: 200%;
     height: 200%;
-    background: radial-gradient(circle at center, rgba(123, 44, 191, 0.08) 0%, transparent 50%);
+    background: radial-gradient(circle at center, rgba(16, 185, 129, 0.08) 0%, transparent 50%);
     z-index: -1;
     pointer-events: none;
 }
